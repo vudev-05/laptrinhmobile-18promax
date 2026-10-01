@@ -1,0 +1,21 @@
+node_modules/
+.DS_Store
+dist/
+build/
+.env
+
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+apps/mobile/build/
+apps/mobile/.dart_tool/
+apps/mobile/.idea/
+apps/mobile/.flutter-plugins
+apps/mobile/.flutter-plugins-dependencies
+
+# NestJS
+apps/api/node_modules/
+apps/api/dist/
+apps/api/.DS_Store
